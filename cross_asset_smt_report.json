@@ -1,0 +1,431 @@
+{
+  "timestamp": "2026-11-20T17:52:58.739195+00:00",
+  "momentum_analysis": {
+    "USDJPY": {
+      "bid": 158.746,
+      "ask": 158.746,
+      "spread_pips": 0.0,
+      "alignment": "BEARISH",
+      "h4": {
+        "close": 158.748,
+        "ema50": 159.202494624405,
+        "gap_pips": -45.4,
+        "ema_slope_pips": -1.33,
+        "roc_5_pips": -91.6,
+        "bias": "BEARISH",
+        "detailed_bias": "BEARISH"
+      },
+      "h1": {
+        "close": 158.748,
+        "ema50": 159.26445433264882,
+        "gap_pips": -51.6,
+        "ema_slope_pips": -1.66,
+        "roc_5_pips": -0.9,
+        "bias": "BEARISH",
+        "detailed_bias": "STRONG BEARISH"
+      },
+      "m15": {
+        "close": 158.748,
+        "ema50": 158.89689819157073,
+        "gap_pips": -14.9,
+        "ema_slope_pips": -0.6,
+        "roc_5_pips": 5.8,
+        "bias": "BEARISH",
+        "detailed_bias": "STRONG BEARISH"
+      }
+    },
+    "GBPJPY": {
+      "bid": 207.924,
+      "ask": 207.944,
+      "spread_pips": 2.0,
+      "alignment": "BEARISH",
+      "h4": {
+        "close": 207.925,
+        "ema50": 210.21418041474877,
+        "gap_pips": -228.9,
+        "ema_slope_pips": -7.19,
+        "roc_5_pips": -102.4,
+        "bias": "BEARISH",
+        "detailed_bias": "STRONG BEARISH"
+      },
+      "h1": {
+        "close": 207.925,
+        "ema50": 208.99497645844315,
+        "gap_pips": -107.0,
+        "ema_slope_pips": -3.3,
+        "roc_5_pips": -22.0,
+        "bias": "BEARISH",
+        "detailed_bias": "STRONG BEARISH"
+      },
+      "m15": {
+        "close": 207.925,
+        "ema50": 208.23602541909918,
+        "gap_pips": -31.1,
+        "ema_slope_pips": -1.12,
+        "roc_5_pips": -8.1,
+        "bias": "BEARISH",
+        "detailed_bias": "STRONG BEARISH"
+      }
+    },
+    "USDCAD": {
+      "bid": 1.43359,
+      "ask": 1.43361,
+      "spread_pips": 0.2,
+      "alignment": "BULLISH",
+      "h4": {
+        "close": 1.43359,
+        "ema50": 1.4263882365379614,
+        "gap_pips": 72.0,
+        "ema_slope_pips": 2.04,
+        "roc_5_pips": -4.0,
+        "bias": "BULLISH",
+        "detailed_bias": "STRONG BULLISH"
+      },
+      "h1": {
+        "close": 1.43359,
+        "ema50": 1.432256553608923,
+        "gap_pips": 13.3,
+        "ema_slope_pips": 0.12,
+        "roc_5_pips": 29.5,
+        "bias": "BULLISH",
+        "detailed_bias": "STRONG BULLISH"
+      },
+      "m15": {
+        "close": 1.43359,
+        "ema50": 1.4323080540368347,
+        "gap_pips": 12.8,
+        "ema_slope_pips": 0.32,
+        "roc_5_pips": 19.5,
+        "bias": "BULLISH",
+        "detailed_bias": "STRONG BULLISH"
+      }
+    },
+    "NZDUSD": {
+      "bid": 0.54791,
+      "ask": 0.54793,
+      "spread_pips": 0.2,
+      "alignment": "BEARISH",
+      "h4": {
+        "close": 0.54791,
+        "ema50": 0.5524117791313268,
+        "gap_pips": -45.0,
+        "ema_slope_pips": -1.04,
+        "roc_5_pips": -5.2,
+        "bias": "BEARISH",
+        "detailed_bias": "STRONG BEARISH"
+      },
+      "h1": {
+        "close": 0.54791,
+        "ema50": 0.5496073578244017,
+        "gap_pips": -17.0,
+        "ema_slope_pips": -0.32,
+        "roc_5_pips": -21.4,
+        "bias": "BEARISH",
+        "detailed_bias": "STRONG BEARISH"
+      },
+      "m15": {
+        "close": 0.54791,
+        "ema50": 0.549232107308357,
+        "gap_pips": -13.2,
+        "ema_slope_pips": -0.43,
+        "roc_5_pips": -8.0,
+        "bias": "BEARISH",
+        "detailed_bias": "STRONG BEARISH"
+      }
+    },
+    "AUDUSD": {
+      "bid": 0.66296,
+      "ask": 0.66296,
+      "spread_pips": 0.0,
+      "alignment": "BEARISH",
+      "h4": {
+        "close": 0.66296,
+        "ema50": 0.6758162023114118,
+        "gap_pips": -128.6,
+        "ema_slope_pips": -3.56,
+        "roc_5_pips": -30.0,
+        "bias": "BEARISH",
+        "detailed_bias": "STRONG BEARISH"
+      },
+      "h1": {
+        "close": 0.66296,
+        "ema50": 0.6678465557921309,
+        "gap_pips": -48.9,
+        "ema_slope_pips": -1.17,
+        "roc_5_pips": -36.1,
+        "bias": "BEARISH",
+        "detailed_bias": "STRONG BEARISH"
+      },
+      "m15": {
+        "close": 0.66296,
+        "ema50": 0.6655235713303892,
+        "gap_pips": -25.6,
+        "ema_slope_pips": -0.84,
+        "roc_5_pips": -11.2,
+        "bias": "BEARISH",
+        "detailed_bias": "STRONG BEARISH"
+      }
+    },
+    "GBPUSD": {
+      "bid": 1.30991,
+      "ask": 1.30991,
+      "spread_pips": 0.0,
+      "alignment": "BEARISH",
+      "h4": {
+        "close": 1.30991,
+        "ema50": 1.3205215924904319,
+        "gap_pips": -106.1,
+        "ema_slope_pips": -3.42,
+        "roc_5_pips": 11.5,
+        "bias": "BEARISH",
+        "detailed_bias": "STRONG BEARISH"
+      },
+      "h1": {
+        "close": 1.30991,
+        "ema50": 1.3123434910013092,
+        "gap_pips": -24.3,
+        "ema_slope_pips": -0.7,
+        "roc_5_pips": -13.1,
+        "bias": "BEARISH",
+        "detailed_bias": "STRONG BEARISH"
+      },
+      "m15": {
+        "close": 1.30991,
+        "ema50": 1.3105850138920225,
+        "gap_pips": -6.8,
+        "ema_slope_pips": -0.2,
+        "roc_5_pips": -9.4,
+        "bias": "BEARISH",
+        "detailed_bias": "STRONG BEARISH"
+      }
+    },
+    "EURUSD": {
+      "bid": 1.09729,
+      "ask": 1.09729,
+      "spread_pips": 0.0,
+      "alignment": "BEARISH",
+      "h4": {
+        "close": 1.09729,
+        "ema50": 1.1031447136562775,
+        "gap_pips": -58.5,
+        "ema_slope_pips": -1.81,
+        "roc_5_pips": 2.6,
+        "bias": "BEARISH",
+        "detailed_bias": "STRONG BEARISH"
+      },
+      "h1": {
+        "close": 1.09729,
+        "ema50": 1.0978604252917634,
+        "gap_pips": -5.7,
+        "ema_slope_pips": 0.02,
+        "roc_5_pips": -9.5,
+        "bias": "BEARISH",
+        "detailed_bias": "STRONG BEARISH"
+      },
+      "m15": {
+        "close": 1.09729,
+        "ema50": 1.0978316863361313,
+        "gap_pips": -5.4,
+        "ema_slope_pips": -0.04,
+        "roc_5_pips": -12.1,
+        "bias": "BEARISH",
+        "detailed_bias": "BEARISH"
+      }
+    }
+  },
+  "smt_divergences": {
+    "AUDUSD_vs_NZDUSD": [
+      {
+        "type": "BEARISH_SMT",
+        "description": "AUDUSD made a Higher High (0.66727 > 0.66722) while NZDUSD failed with a Lower High (0.55013 < 0.55063)",
+        "leader": "AUDUSD",
+        "laggard": "NZDUSD"
+      }
+    ],
+    "USDJPY_vs_USDCAD": [
+      {
+        "type": "BEARISH_SMT",
+        "description": "USDCAD made a Higher High (1.43366 > 1.43318) while USDJPY failed with a Lower High (158.93300 < 158.98700)",
+        "leader": "USDCAD",
+        "laggard": "USDJPY"
+      }
+    ],
+    "USDJPY_vs_EURUSD_proxyDXY": [],
+    "GBPUSD_vs_GBPJPY": [
+      {
+        "type": "BULLISH_SMT",
+        "description": "GBPJPY swept Lower Low (207.83600 < 207.91100) while GBPUSD held a Higher Low (1.30968 > 1.30938)",
+        "leader": "GBPJPY",
+        "laggard": "GBPUSD"
+      }
+    ]
+  },
+  "fvg_setups": {
+    "USDJPY": [],
+    "GBPJPY": [],
+    "USDCAD": [
+      {
+        "timeframe": "M15",
+        "type": "BULLISH_FVG",
+        "time": "2026-11-20 19:00:00+00:00",
+        "top": 1.43265,
+        "bottom": 1.43244,
+        "gap_pips": 2.1,
+        "mitigated": false,
+        "in_fvg_now": false
+      }
+    ],
+    "NZDUSD": [],
+    "AUDUSD": [],
+    "GBPUSD": [],
+    "EURUSD": [
+      {
+        "timeframe": "M15",
+        "type": "BEARISH_FVG",
+        "time": "2026-11-20 19:30:00+00:00",
+        "top": 1.09789,
+        "bottom": 1.09764,
+        "gap_pips": 2.5,
+        "mitigated": false,
+        "in_fvg_now": false
+      }
+    ]
+  },
+  "yen_order_flow": {
+    "USDJPY_M15_ROC_pips": 5.8,
+    "GBPJPY_M15_ROC_pips": -8.1,
+    "USDJPY_H1_ROC_pips": -0.9,
+    "GBPJPY_H1_ROC_pips": -22.0,
+    "summary": "YEN_MIXED"
+  },
+  "correlations_m15": {
+    "USDJPY": {
+      "USDJPY": 1.0,
+      "GBPJPY": 0.74,
+      "USDCAD": 0.07,
+      "NZDUSD": 0.02,
+      "AUDUSD": 0.37,
+      "GBPUSD": -0.11,
+      "EURUSD": -0.27
+    },
+    "GBPJPY": {
+      "USDJPY": 0.74,
+      "GBPJPY": 1.0,
+      "USDCAD": -0.34,
+      "NZDUSD": 0.44,
+      "AUDUSD": 0.62,
+      "GBPUSD": 0.58,
+      "EURUSD": 0.26
+    },
+    "USDCAD": {
+      "USDJPY": 0.07,
+      "GBPJPY": -0.34,
+      "USDCAD": 1.0,
+      "NZDUSD": -0.67,
+      "AUDUSD": -0.47,
+      "GBPUSD": -0.6,
+      "EURUSD": -0.62
+    },
+    "NZDUSD": {
+      "USDJPY": 0.02,
+      "GBPJPY": 0.44,
+      "USDCAD": -0.67,
+      "NZDUSD": 1.0,
+      "AUDUSD": 0.67,
+      "GBPUSD": 0.63,
+      "EURUSD": 0.64
+    },
+    "AUDUSD": {
+      "USDJPY": 0.37,
+      "GBPJPY": 0.62,
+      "USDCAD": -0.47,
+      "NZDUSD": 0.67,
+      "AUDUSD": 1.0,
+      "GBPUSD": 0.51,
+      "EURUSD": 0.34
+    },
+    "GBPUSD": {
+      "USDJPY": -0.11,
+      "GBPJPY": 0.58,
+      "USDCAD": -0.6,
+      "NZDUSD": 0.63,
+      "AUDUSD": 0.51,
+      "GBPUSD": 1.0,
+      "EURUSD": 0.71
+    },
+    "EURUSD": {
+      "USDJPY": -0.27,
+      "GBPJPY": 0.26,
+      "USDCAD": -0.62,
+      "NZDUSD": 0.64,
+      "AUDUSD": 0.34,
+      "GBPUSD": 0.71,
+      "EURUSD": 1.0
+    }
+  },
+  "correlations_h1": {
+    "USDJPY": {
+      "USDJPY": 1.0,
+      "GBPJPY": 0.56,
+      "USDCAD": 0.31,
+      "NZDUSD": -0.09,
+      "AUDUSD": 0.16,
+      "GBPUSD": -0.28,
+      "EURUSD": -0.34
+    },
+    "GBPJPY": {
+      "USDJPY": 0.56,
+      "GBPJPY": 1.0,
+      "USDCAD": -0.32,
+      "NZDUSD": 0.46,
+      "AUDUSD": 0.58,
+      "GBPUSD": 0.63,
+      "EURUSD": 0.46
+    },
+    "USDCAD": {
+      "USDJPY": 0.31,
+      "GBPJPY": -0.32,
+      "USDCAD": 1.0,
+      "NZDUSD": -0.57,
+      "AUDUSD": -0.4,
+      "GBPUSD": -0.66,
+      "EURUSD": -0.68
+    },
+    "NZDUSD": {
+      "USDJPY": -0.09,
+      "GBPJPY": 0.46,
+      "USDCAD": -0.57,
+      "NZDUSD": 1.0,
+      "AUDUSD": 0.52,
+      "GBPUSD": 0.61,
+      "EURUSD": 0.61
+    },
+    "AUDUSD": {
+      "USDJPY": 0.16,
+      "GBPJPY": 0.58,
+      "USDCAD": -0.4,
+      "NZDUSD": 0.52,
+      "AUDUSD": 1.0,
+      "GBPUSD": 0.52,
+      "EURUSD": 0.44
+    },
+    "GBPUSD": {
+      "USDJPY": -0.28,
+      "GBPJPY": 0.63,
+      "USDCAD": -0.66,
+      "NZDUSD": 0.61,
+      "AUDUSD": 0.52,
+      "GBPUSD": 1.0,
+      "EURUSD": 0.85
+    },
+    "EURUSD": {
+      "USDJPY": -0.34,
+      "GBPJPY": 0.46,
+      "USDCAD": -0.68,
+      "NZDUSD": 0.61,
+      "AUDUSD": 0.44,
+      "GBPUSD": 0.85,
+      "EURUSD": 1.0
+    }
+  }
+}

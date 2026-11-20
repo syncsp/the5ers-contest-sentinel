@@ -1,0 +1,19 @@
+{
+  "ticket": 17663870,
+  "symbol": "GBPUSD",
+  "direction": "SELL",
+  "volume": 0.55,
+  "entry": 1.30990,
+  "exit_price": 1.30860,
+  "sl": 1.31130,
+  "tp": 1.30860,
+  "gross_profit": 71.50,
+  "commission": -2.20,
+  "net_profit": 69.30,
+  "status": "CLOSED_TP_HIT",
+  "exit_deal": 15178267,
+  "exit_reason": 5,
+  "execution": "NATIVE_WINDOWS_SCANCODE",
+  "deal_reason": 0,
+  "magic": 0
+}

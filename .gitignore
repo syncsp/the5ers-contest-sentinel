@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+the5ers_sentinel.log
+the5ers_elite.log
+learning_research.log
+
+# Temporary execution signals
+pending_signal.json
